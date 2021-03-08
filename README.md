@@ -24,7 +24,8 @@ I dislike:
 - Bash 
 - Openstack 
 - Ruby (because of the ecosystem) 
-- Java (because of the large boilerplate) 
+- Java (because of the large boilerplate)
+- Scala 
 - Windows for work
 - Cisco Security products
 - 
