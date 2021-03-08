@@ -27,5 +27,7 @@ I dislike:
 - Java (because of the large boilerplate)
 - Scala 
 - Windows for work
+- Mac for Play
+- Linux for desktop (If I need to recompile another driver set again...)
 - Cisco Security products
 - 
