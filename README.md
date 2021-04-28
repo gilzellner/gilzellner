@@ -4,7 +4,8 @@
 
 I like: 
 
-- Golang 
+- Golang
+- DDD 
 - Python
 - AWS
 - Docker 
