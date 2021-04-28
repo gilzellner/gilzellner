@@ -5,7 +5,8 @@
 I like: 
 
 - Golang
-- DDD 
+- DDD
+- Microservices 
 - Python
 - AWS
 - Docker 
