@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Golang based services to improve the infrastructure at Appsflyer.
+🔭 I’m currently working on Golang based services to improve the infrastructure at Wix.
 
 I like: 
 
